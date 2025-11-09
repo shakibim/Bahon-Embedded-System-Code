@@ -1,8 +1,7 @@
 # Code of Embedded System of Bahon (An IoT-Based Embedded System for Smart Public Transportation)
 
 This repository contains the **embedded system source code** for the IoT-based **Automated Fare Collection System** project. The embedded system is responsible for interacting with hardware modules, collecting real-time passenger and location data, and transmitting it to the cloud server for processing and fare calculation.
-The system is built around an **ESP32 microcontroller**, which connects with components such as a **GPS module**, **RFID scanner**, **OLED display**, and **buzzer** to provide a complete smart transport hardware solution.  
-It communicates with the server over Wi-Fi or GSM, enabling seamless integration between the hardware, web admin panel, and mobile applications.
+The system is built around an **ESP32 microcontroller**, which connects with components such as a **GPS module**, **RFID scanner**, **OLED display**, and **buzzer** to provide a complete smart transport hardware solution. It communicates with the server over Wi-Fi or GSM, allowing seamless integration between the hardware, web admin panel, and mobile applications.
 
 
 ## System Overview
