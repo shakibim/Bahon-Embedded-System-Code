@@ -56,8 +56,6 @@ The embedded system operates as the bridge between hardware components and the c
   <img width="720" alt="Circuit Diagram 2" src="https://github.com/user-attachments/assets/73b7c9a2-cb31-44c0-a2f9-f3a0908d2cf9" />
 </p>
 
----
-
 ## Implemented Embedded System
 
 <p align="center">
