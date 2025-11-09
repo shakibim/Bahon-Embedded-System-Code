@@ -48,15 +48,25 @@ The embedded system operates as the bridge between hardware components and the c
 
 ## Circuit Diagram
 
-<img width="805" height="803" alt="Image" src="https://github.com/user-attachments/assets/252e9242-e90d-4c90-99a9-848b05be08fb" />
+<p align="center">
+  <img width="650" alt="Circuit Diagram 1" src="https://github.com/user-attachments/assets/252e9242-e90d-4c90-99a9-848b05be08fb" />
+</p>
 
-<img width="913" height="781" alt="Image" src="https://github.com/user-attachments/assets/73b7c9a2-cb31-44c0-a2f9-f3a0908d2cf9" />
+<p align="center">
+  <img width="720" alt="Circuit Diagram 2" src="https://github.com/user-attachments/assets/73b7c9a2-cb31-44c0-a2f9-f3a0908d2cf9" />
+</p>
+
+---
 
 ## Implemented Embedded System
 
-<img width="840" height="680" alt="Image" src="https://github.com/user-attachments/assets/bd307982-64fe-4b0d-beeb-89d1206a0cff" />
+<p align="center">
+  <img width="700" alt="Implemented System 1" src="https://github.com/user-attachments/assets/bd307982-64fe-4b0d-beeb-89d1206a0cff" />
+</p>
 
-<img width="890" height="830" alt="Image" src="https://github.com/user-attachments/assets/1fc5a622-aee7-4cbd-9fc7-f53563bc1a78" />
+<p align="center">
+  <img width="720" alt="Implemented System 2" src="https://github.com/user-attachments/assets/1fc5a622-aee7-4cbd-9fc7-f53563bc1a78" />
+</p>
 
 ### Author
 
